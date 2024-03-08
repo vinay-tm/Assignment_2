@@ -1,6 +1,7 @@
 # Assignment_2
 
-# Requirements
+requirements
+
 pandas
 pickle
 seaborn
